@@ -12,3 +12,7 @@ helmValues: |
     sytprop: myprop1
     sytprop1: myprop12
 
+helmRoot:
+  secondObj: |
+    sytprop: myprop1
+    sytprop1: myprop12
