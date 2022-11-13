@@ -5,8 +5,8 @@ appSet:
 
 helmRoot: |
   secondObj: 
-    sytprop: myprop1
-    sytprop1: myprop12
+    intprop: myprop1
+    intprop1: myprop12
   firstObj: 
-    sytprop: myprop1
-    sytprop1: myprop12
+    intprop: myprop1
+    intprop1: myprop12
