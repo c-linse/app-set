@@ -1,6 +1,6 @@
 appSet:
-  name: app-set-int
-  image: image-int
+  name: app-set-syt
+  image: image-syt
   imageTag: image-tag
 
 helmRoot: |
