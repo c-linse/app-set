@@ -3,7 +3,7 @@ appSet:
   image: image-int
   imageTag: image-tag
 
-firstObj: |
+firstObj: |-
   sytprop: myprop1
   sytprop1: myprop12
 
