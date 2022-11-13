@@ -1,6 +1,6 @@
-appSet: |
+appSet:
   name: app-set-int
-  image image-int
+  image: image-int
   imageTag: image-tag
 
 firstObj: |
