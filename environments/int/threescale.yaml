@@ -1,3 +1,2 @@
 customVal: |
-   prop1: custom1
-   prop2: custom2
+   customProp: customValue
