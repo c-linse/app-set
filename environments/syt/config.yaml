@@ -1,5 +1,1 @@
 name: nginx-syt
-
-helmValues: |
-  customProp: customValue
-
