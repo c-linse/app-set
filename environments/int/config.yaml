@@ -8,6 +8,6 @@ firstObj: |-
   sytprop1: myprop12
 
 secondObj: |
-  sytsecondprop: secondprop23
-  sytsecondprop1: secondprop34
+  sytprop: myprop1
+  sytprop1: myprop12
 
