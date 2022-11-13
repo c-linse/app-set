@@ -1,4 +1,1 @@
 name: nginx-int
-
-helmValues: |
-  customProp: customValue
