@@ -1,4 +1,0 @@
-name: nginx-prd
-  
-helmValues: |
-  customProp: customValue
