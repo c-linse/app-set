@@ -16,7 +16,3 @@ helmRoot:
   firstObj: |
     sytprop: myprop1
     sytprop1: myprop12
-
-  secondObj: |
-    sytprop: myprop1
-    sytprop1: myprop12
