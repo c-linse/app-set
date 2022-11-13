@@ -3,12 +3,11 @@ appSet:
   image: image-int
   imageTag: image-tag
 
-helmValues: |
-  firstObj:
-    sytprop: myprop1
-    sytprop1: myprop12
-  
-  secondObj:
-    sytsecondprop: secondprop23
-    sytsecondprop1: secondprop34
+firstObj: |
+  sytprop: myprop1
+  sytprop1: myprop12
+
+secondObj: |
+  sytsecondprop: secondprop23
+  sytsecondprop1: secondprop34
 
