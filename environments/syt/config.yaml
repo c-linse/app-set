@@ -1,0 +1,8 @@
+firstObj: |
+  myprop: myprop1
+  myprop1: myprop12
+
+secondObj: |
+  secondprop: secondprop23
+  secondprop1: secondprop34
+
