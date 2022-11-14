@@ -1,0 +1,25 @@
+unique: something
+
+appSet:
+  name: app-set-int
+  image: image-int
+  imageTag: image-tag
+
+secondObj:
+  intprop: myprop1
+  intprop1: myprop12
+firstObj:
+  intprop: myprop1
+  intprop1: myprop12
+
+helmRoot: |
+  secondObj: 
+    intprop: myprop1
+    intprop1: myprop12
+  firstObj: 
+    intprop: myprop1
+    intprop1: myprop12
+
+dummy: |
+  intprop: myprop1
+  intprop1: myprop12
