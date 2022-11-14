@@ -1,0 +1,11 @@
+unique: something
+
+dummyString: |
+  name: app-set-int
+  image: image-int
+  imageTag: image-tag
+
+dummyObject:
+  intprop: myprop1
+  intprop1: myprop12
+
