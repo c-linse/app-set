@@ -3,7 +3,7 @@ appSet:
   image: image-int
   imageTag: image-tag
 
-secondObj:
+secondObj: |
   intprop: myprop1
   intprop1: myprop12
 firstObj:
