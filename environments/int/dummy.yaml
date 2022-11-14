@@ -17,3 +17,7 @@ helmRoot: |
   firstObj: 
     intprop: myprop1
     intprop1: myprop12
+
+dummy: |
+  intprop: myprop1
+  intprop1: myprop12
