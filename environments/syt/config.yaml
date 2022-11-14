@@ -1,6 +1,7 @@
 name: syt
 
-valueFiles: |
-  - spring.yaml
-  - threescale.yaml
-  
+springConfig: spring.yaml
+threeConfig: threeConfig.yaml
+
+
+
