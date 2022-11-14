@@ -1,3 +1,5 @@
+name: syt
+
 valueFiles: |
   - spring.yaml
   - threescale.yaml
